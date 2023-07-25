@@ -1,7 +1,7 @@
 
 # Covid Sentiment Analysis
 
-[Thesis](https://www.proquest.com/openview/51ccce24b1d76da84ad2004a4faf6bf3/1?pq-origsite=gscholar&cbl=18750&diss=y)
+📰 [Published: Thesis Research Paper](https://www.proquest.com/openview/51ccce24b1d76da84ad2004a4faf6bf3/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 Covid twitter datasets sentiment analysis.
 
