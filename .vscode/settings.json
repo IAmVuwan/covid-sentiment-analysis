@@ -1,0 +1,15 @@
+{
+    "python.formatting.provider": "black",
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/*/**": true,
+        "**/.idea/*/**": true,
+        "**/build/*/**": true,
+        "**/venv/*/**": true
+    },
+    "editor.fontFamily": "'Cascadia Code','Droid Sans Mono', 'monospace', monospace",
+    "terminal.integrated.fontFamily": "'Cascadia Mono','Droid Sans Mono', 'monospace', monospace",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.fontSize": 20
+}
