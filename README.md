@@ -9,6 +9,15 @@ Covid twitter datasets sentiment analysis.
 
 ```bash
 python -m pip install --user virtualenv
+virtualenv venv
+source venv/bin/activate
+pip install -r requirements.txt && pip install --editable .
+```
+
+## CSA Command
+
+```bash
+csa --help
 ```
 
 ## Setup Env
